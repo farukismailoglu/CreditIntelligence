@@ -1,0 +1,4 @@
+/Users/faruk/Repositories/CreditIntelligence/obj/Debug/net9.0/CreditIntelligence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faruk/Repositories/CreditIntelligence/obj/Debug/net9.0/CreditIntelligence.AssemblyInfoInputs.cache
+/Users/faruk/Repositories/CreditIntelligence/obj/Debug/net9.0/CreditIntelligence.AssemblyInfo.cs
+/Users/faruk/Repositories/CreditIntelligence/obj/Debug/net9.0/CreditIntelligence.csproj.CoreCompileInputs.cache
